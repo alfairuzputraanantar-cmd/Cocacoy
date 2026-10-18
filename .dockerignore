@@ -1,0 +1,8 @@
+.git
+.gitignore
+.firebase
+.firebaserc
+firebase.json
+firestore.rules
+firestore.indexes.json
+README.md
