@@ -1,4 +1,4 @@
-Ecosurv - Web Application
+# CocaCoy - Smart Inventory & Sales Management ERP
 
 This project is the Ecosurv web application, served using the **Nginx (Alpine Image)** web server within a Docker container.
 
