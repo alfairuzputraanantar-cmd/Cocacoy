@@ -1,6 +1,6 @@
-# CocaCoy - Smart Inventory & Sales Management ERP
+*CocaCoy* is a web-based ERP system designed to help businesses and small shops (UMKM) manage inventory, track product stocks, analyze daily revenue, and process transactions using a smart Cashier (POS) interface with barcode scanning.
 
-This project is the Ecosurv web application, served using the **Nginx (Alpine Image)** web server within a Docker container.
+This application is packaged using Docker and served using the *Nginx (Alpine Image)* web server. 
 
 Prerequisites : 
 
