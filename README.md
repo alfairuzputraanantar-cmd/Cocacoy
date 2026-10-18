@@ -13,7 +13,7 @@ Instructions to Run the App
 Open your terminal/Power Shell and run the following command:
 
 ```bash
-git clone https://github.com/alfairuzputraanantar-cmd/Ecosurv.git
+git clone [https://github.com/alfairuzputraanantar-cmd/Ecosurv.git](https://github.com/alfairuzputraanantar-cmd/Ecosurv.git)
 cd Ecosurv
 ```
 2. Build Docker Image
